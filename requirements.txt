@@ -1,0 +1,8 @@
+aiogram~=2.14
+environs~=8.0.0
+asyncpg
+requests
+mysql-connector-python
+aiomysql
+cryptography
+
